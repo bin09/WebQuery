@@ -7,3 +7,10 @@ F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\obj\Debug\WebQuery.pdb
 F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\Helper.dll
 F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\log4net.dll
 F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\Helper.pdb
+F:\GitHub\WebQuery\WebQuery\bin\WebQuery.dll
+F:\GitHub\WebQuery\WebQuery\bin\WebQuery.pdb
+F:\GitHub\WebQuery\WebQuery\bin\Helper.dll
+F:\GitHub\WebQuery\WebQuery\bin\Helper.pdb
+F:\GitHub\WebQuery\WebQuery\obj\Debug\ResolveAssemblyReference.cache
+F:\GitHub\WebQuery\WebQuery\obj\Debug\WebQuery.dll
+F:\GitHub\WebQuery\WebQuery\obj\Debug\WebQuery.pdb

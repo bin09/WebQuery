@@ -3,3 +3,8 @@ F:\Project\GitHub\Solr4Net\WebQuery\DBUtility\bin\Debug\DBUtility.pdb
 F:\Project\GitHub\Solr4Net\WebQuery\DBUtility\obj\Debug\ResolveAssemblyReference.cache
 F:\Project\GitHub\Solr4Net\WebQuery\DBUtility\obj\Debug\DBUtility.dll
 F:\Project\GitHub\Solr4Net\WebQuery\DBUtility\obj\Debug\DBUtility.pdb
+F:\GitHub\WebQuery\DBUtility\bin\Debug\DBUtility.dll
+F:\GitHub\WebQuery\DBUtility\bin\Debug\DBUtility.pdb
+F:\GitHub\WebQuery\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+F:\GitHub\WebQuery\DBUtility\obj\Debug\DBUtility.dll
+F:\GitHub\WebQuery\DBUtility\obj\Debug\DBUtility.pdb

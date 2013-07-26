@@ -5,3 +5,10 @@ F:\Project\GitHub\Solr4Net\WebQuery\DAL\obj\Debug\DAL.dll
 F:\Project\GitHub\Solr4Net\WebQuery\DAL\obj\Debug\DAL.pdb
 F:\Project\GitHub\Solr4Net\WebQuery\DAL\bin\Debug\DBUtility.dll
 F:\Project\GitHub\Solr4Net\WebQuery\DAL\bin\Debug\DBUtility.pdb
+F:\GitHub\WebQuery\DAL\bin\Debug\DAL.dll
+F:\GitHub\WebQuery\DAL\bin\Debug\DAL.pdb
+F:\GitHub\WebQuery\DAL\bin\Debug\DBUtility.dll
+F:\GitHub\WebQuery\DAL\bin\Debug\DBUtility.pdb
+F:\GitHub\WebQuery\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\GitHub\WebQuery\DAL\obj\Debug\DAL.dll
+F:\GitHub\WebQuery\DAL\obj\Debug\DAL.pdb

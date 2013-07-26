@@ -3,3 +3,11 @@ F:\Project\GitHub\Solr4Net\WebQuery\MODEL\bin\Debug\MODEL.pdb
 F:\Project\GitHub\Solr4Net\WebQuery\MODEL\obj\Debug\ResolveAssemblyReference.cache
 F:\Project\GitHub\Solr4Net\WebQuery\MODEL\obj\Debug\MODEL.dll
 F:\Project\GitHub\Solr4Net\WebQuery\MODEL\obj\Debug\MODEL.pdb
+F:\GitHub\WebQuery\MODEL\bin\Debug\MODEL.dll
+F:\GitHub\WebQuery\MODEL\bin\Debug\MODEL.pdb
+F:\GitHub\WebQuery\MODEL\obj\Debug\ResolveAssemblyReference.cache
+F:\GitHub\WebQuery\MODEL\obj\Debug\MODEL.dll
+F:\GitHub\WebQuery\MODEL\obj\Debug\MODEL.pdb
+F:\GitHub\WebQuery\MODEL\bin\Debug\SolrNet.dll
+F:\GitHub\WebQuery\MODEL\bin\Debug\HttpWebAdapters.dll
+F:\GitHub\WebQuery\MODEL\bin\Debug\Microsoft.Practices.ServiceLocation.dll

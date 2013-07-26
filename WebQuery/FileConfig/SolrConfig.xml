@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SolrConfig>
+  <!--银牌会员产品权重-->
+  <SilverBoost>50</SilverBoost>
+  <!--金牌会员产品权重-->
+  <GoldBoost>150</GoldBoost>
+  <!--Vip会员产品权重-->
+  <VipBoost>300</VipBoost>
+  <!--Solr实例-->
+  <ProCore>http://192.168.19.241:8080/solr/product</ProCore>
+  <MemberCore>http://192.168.19.241:8080/solr/member</MemberCore>
+  <KeywordCore>http://192.168.19.241:8080/solr/keyword</KeywordCore>
+  <BuyCore>http://192.168.19.241:8080/solr/buy</BuyCore>
+  <NewsCore>http://192.168.19.241:8080/solr/news</NewsCore>
+</SolrConfig>

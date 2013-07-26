@@ -1,0 +1,13 @@
+F:\GitHub\WebQuery\SolrLib\obj\Debug\ResolveAssemblyReference.cache
+F:\GitHub\WebQuery\SolrLib\bin\Debug\SolrLib.dll
+F:\GitHub\WebQuery\SolrLib\bin\Debug\SolrLib.pdb
+F:\GitHub\WebQuery\SolrLib\bin\Debug\Helper.dll
+F:\GitHub\WebQuery\SolrLib\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\GitHub\WebQuery\SolrLib\bin\Debug\SolrNet.dll
+F:\GitHub\WebQuery\SolrLib\bin\Debug\HttpWebAdapters.dll
+F:\GitHub\WebQuery\SolrLib\bin\Debug\log4net.dll
+F:\GitHub\WebQuery\SolrLib\bin\Debug\Helper.pdb
+F:\GitHub\WebQuery\SolrLib\obj\Debug\SolrLib.dll
+F:\GitHub\WebQuery\SolrLib\obj\Debug\SolrLib.pdb
+F:\GitHub\WebQuery\SolrLib\bin\Debug\MODEL.dll
+F:\GitHub\WebQuery\SolrLib\bin\Debug\MODEL.pdb

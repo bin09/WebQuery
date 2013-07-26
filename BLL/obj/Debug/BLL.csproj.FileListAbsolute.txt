@@ -3,3 +3,8 @@ F:\Project\GitHub\Solr4Net\WebQuery\BLL\bin\Debug\BLL.pdb
 F:\Project\GitHub\Solr4Net\WebQuery\BLL\obj\Debug\ResolveAssemblyReference.cache
 F:\Project\GitHub\Solr4Net\WebQuery\BLL\obj\Debug\BLL.dll
 F:\Project\GitHub\Solr4Net\WebQuery\BLL\obj\Debug\BLL.pdb
+F:\GitHub\WebQuery\BLL\bin\Debug\BLL.dll
+F:\GitHub\WebQuery\BLL\bin\Debug\BLL.pdb
+F:\GitHub\WebQuery\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\GitHub\WebQuery\BLL\obj\Debug\BLL.dll
+F:\GitHub\WebQuery\BLL\obj\Debug\BLL.pdb
