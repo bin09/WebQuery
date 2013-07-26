@@ -1,0 +1,6 @@
+F:\Project\GitHub\Solr4Net\WebQuery\Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\GitHub\Solr4Net\WebQuery\Helper\bin\Debug\Helper.dll
+F:\Project\GitHub\Solr4Net\WebQuery\Helper\bin\Debug\Helper.pdb
+F:\Project\GitHub\Solr4Net\WebQuery\Helper\bin\Debug\log4net.dll
+F:\Project\GitHub\Solr4Net\WebQuery\Helper\obj\Debug\Helper.dll
+F:\Project\GitHub\Solr4Net\WebQuery\Helper\obj\Debug\Helper.pdb

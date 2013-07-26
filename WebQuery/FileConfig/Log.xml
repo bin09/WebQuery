@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<log4net>
+  <appender name="rollingFile_App" type="log4net.Appender.RollingFileAppender,log4net" >
+
+    <param name="File" value="Logs\Query" />
+    <param name="AppendToFile" value="true" />
+    <param name="RollingStyle" value="Date" />
+    <param name="DatePattern" value=".yyyy.MM.dd.'log'" />
+    <param name="StaticLogFileName" value="false" />
+
+    <layout type="log4net.Layout.PatternLayout,log4net">
+      <param name="ConversionPattern" value="%n异常时间：%d [%t] %n异常级别：%-5p %n异 常 类：%c [%x] %n%m %n" />
+    </layout>
+  </appender>
+
+  <!--<root>
+    -->
+  <!--如果只需要看看Sql设置INFO就够了，如果你要调试可以设置为DEBUG或ALL-->
+  <!--
+    <priority value="INFO" />
+    <appender-ref ref="rollingFile_SQL" />
+  </root>-->
+
+  <logger name="Query">
+    <level value="Debug" />
+    <appender-ref ref="rollingFile_App" />
+  </logger>
+
+</log4net>

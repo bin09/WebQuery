@@ -1,0 +1,5 @@
+F:\Project\GitHub\Solr4Net\WebQuery\MODEL\bin\Debug\MODEL.dll
+F:\Project\GitHub\Solr4Net\WebQuery\MODEL\bin\Debug\MODEL.pdb
+F:\Project\GitHub\Solr4Net\WebQuery\MODEL\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\GitHub\Solr4Net\WebQuery\MODEL\obj\Debug\MODEL.dll
+F:\Project\GitHub\Solr4Net\WebQuery\MODEL\obj\Debug\MODEL.pdb

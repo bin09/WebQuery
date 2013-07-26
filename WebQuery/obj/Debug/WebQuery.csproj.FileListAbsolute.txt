@@ -1,0 +1,9 @@
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\WebQuery.dll
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\WebQuery.pdb
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\obj\Debug\WebQuery.dll
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\obj\Debug\WebQuery.pdb
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\Helper.dll
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\log4net.dll
+F:\Project\GitHub\Solr4Net\WebQuery\WebQuery\bin\Helper.pdb
